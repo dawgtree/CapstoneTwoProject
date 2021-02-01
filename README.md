@@ -12,14 +12,14 @@ In [this notebook](https://github.com/dawgtree/CapstoneTwoProject/blob/main/2nd_
 
 In [this notebook](https://github.com/dawgtree/CapstoneTwoProject/blob/main/2nd_Capstone_EDA.ipynb), as I began to explore the data in more detail, I realized that more cleaning needed to be done.  I visualized the data and did hypothesis testing on the categorical variables that I predicted could determine price.  Further details of each step I took are listed throughout the notebook.
 
-The determining variables used:
-Year Produced
-Manufacturer
-Mileage
-Cylinders
-Transmission
-Drive
-Color
+The determining variables used:\
+Year Produced\
+Manufacturer\
+Mileage\
+Cylinders\
+Transmission\
+Drive\
+Color\
 State Listed
 
 ### 3. Preprocessing and Splitting the Data
@@ -28,11 +28,12 @@ In [this notebook](https://github.com/dawgtree/CapstoneTwoProject/blob/main/2nd_
 
 ### 4. Modeling
 
-In [this notebook](https://github.com/dawgtree/CapstoneTwoProject/blob/main/2nd_Capstone_Modeling.ipynb), I used three different ensemble methods for regression on the data: Random Forest Regression, AdaBoost Regression, and Gradient Boosting.  I determined the RMSE, MAE, and adjusted r squared for each model to determine what was the most effective, and Random Forest consistently performed the best. Further details of each step I took are listed throughout the notebook.
-The Random Forest performance metrics:
-RMSE - 5282.47
-MAE - 2821.28
+In [this notebook](https://github.com/dawgtree/CapstoneTwoProject/blob/main/2nd_Capstone_Modeling.ipynb), I used three different ensemble methods for regression on the data: Random Forest Regression, AdaBoost Regression, and Gradient Boosting.  I determined the RMSE, MAE, and adjusted r squared for each model to determine what was the most effective, and Random Forest consistently performed the best. Further details of each step I took are listed throughout the notebook.\
+The Random Forest performance metrics:\
+RMSE - 5282.47\
+MAE - 2821.28\
 Adjusted r squared - 0.829
+
 [Further details of parameters used](https://github.com/dawgtree/CapstoneTwoProject/blob/main/Model%20Metrics.txt)
 
 ### 5. Reporting Data
