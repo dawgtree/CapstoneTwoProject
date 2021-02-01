@@ -1,0 +1,27 @@
+Final Model - Random Forest Regressor
+
+Parameters - 
+n_estimators=200
+max_depth=60
+max_features=11
+criterion='mse'
+min_samples_split=2
+min_samples_leaf=1
+min_weight_fraction_leaf=0
+max_features='auto'
+max_leaf_nodes= None
+max_impurity_decrease=0.0
+max_impurity_split=None
+bootstrap=True
+oob_score=False
+n_jobs=None
+verbose=0
+warm_start=False
+ccp_alpha=0
+max_samples=None
+
+Performance Metrics -
+RMSE = 5282.472640585916
+MAE = 2821.281130815781
+r2 = 0.8294313627975076
+adj r2 = 0.8294034743837585
