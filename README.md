@@ -6,7 +6,7 @@ Buying and selling used cars online has become a major industry, ranging from in
 
 ### 1. Data Wrangling and Cleaning
 
-In [this notebook](https://github.com/dawgtree/CapstoneTwoProject/blob/main/2nd_Capstone_Data_Wrangling.ipynb), I had the initial inspection of the data, selected the variables that I wanted to keep, and cleaned the data, selecting the variables that I wanted to keep.  Further details of each step I took are listed throughout the notebook.
+In [this notebook](https://github.com/dawgtree/CapstoneTwoProject/blob/main/2nd_Capstone_Data_Wrangling.ipynb), I had the initial inspection of the data and cleaned the data, selecting the variables that I wanted to keep.  Further details of each step I took are listed throughout the notebook.
 
 ### 2. Exploratory Data Analysis
 
